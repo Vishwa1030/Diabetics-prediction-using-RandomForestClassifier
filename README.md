@@ -7,9 +7,9 @@ This project focuses on predicting the likelihood of a person having diabetes ba
 3. Execute the notebook cells in sequence, following the step-by-step instructions.
 4. Use the interactive interface to input your health attributes and obtain a diabetes prediction.
 
-## Dependencies
-numpy
-pandas
-sklearn
-matplotlib
-seaborn
+### Dependencies
+numpy,
+pandas,
+sklearn,
+matplotlib,
+seaborn.
