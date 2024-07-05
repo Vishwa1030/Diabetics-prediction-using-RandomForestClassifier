@@ -1,5 +1,5 @@
 # Diabetics-prediction-using-RandomForestClassifier
-This project focuses on predicting the likelihood of a person having diabetes based on various health-related attributes. It utilizes the Random Forest classification algorithm to make predictions and provides a  predicting a future  healthly things for input and prediction.
+"This project focuses on predicting the likelihood of a person having diabetes based on various health-related attributes. It utilizes the Random Forest classification algorithm to make predictions and provides a  predicting a future  healthly things for input and prediction."
 
 # How to Use in Google Colab
 1.Open the provided Jupyter Notebook in Google Colab.
