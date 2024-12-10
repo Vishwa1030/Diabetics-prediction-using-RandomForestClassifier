@@ -13,3 +13,7 @@ pandas,
 sklearn,
 matplotlib,
 seaborn.
+
+# Report Snapshot (Power BI DESKTOP)
+
+![diabetics proj](https://github.com/user-attachments/assets/0413029d-612a-4d50-ac2f-cdfbe7fdb8a0)
